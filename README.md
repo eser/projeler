@@ -114,11 +114,14 @@ için Figma, mimari kararlar için ADR kayıtları, dokümantasyon için ise `do
 dizinlerinde yer alacak içerikler bulunacak.
 
 Projelerin detayları için
-[GitHub Issues](https://github.com/eser/eserlive-projeleri/issues) alanını takip
+[GitHub Issues](https://github.com/eser/projeler/issues) alanını takip
 edebilirsiniz.
 
 ## Proje Listesi
 
-| Proje İsmi | Proje Durumu | Proje Lideri | Proje Amacı | GitHub Adresi                                       |
-| ---------- | ------------ | ------------ | ----------- | --------------------------------------------------- |
-| eser.live  | Aktif        | Eser Özvataf | .           | [eser/eser.live](https://github.com/eser/eser.live) |
+| Proje İsmi | Proje Durumu      | Proje Lideri | Proje Amacı | GitHub Adresi                                       |
+| ---------- | ----------------- | ------------ | ----------- | --------------------------------------------------- |
+| gonullu.io | Projelendiriliyor | Eser Özvataf |             |                                                     |
+| kayit.io   | Projelendiriliyor | Eser Özvataf |             |                                                     |
+| eser.live  | Aktif             | Eser Özvataf |             | [eser/eser.live](https://github.com/eser/eser.live) |
+| eserstack  | Aktif             | Eser Özvataf |             | [eser/stack](https://github.com/eser/stack)         |
